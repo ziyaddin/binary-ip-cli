@@ -1,0 +1,34 @@
+{
+  "name": "binary-ip-cli",
+  "version": "1.0.0",
+  "description": "Convert an IP address to binary",
+  "license": "MIT",
+  "repository": "ziyaddin/binary-ip-cli",
+  "author": {
+    "name": "Ziyaddin Sadigov",
+    "email": "ziyaddinsadigov@gmail.com",
+    "url": "ziyaddin.github.io"
+  },
+  "bin": {
+    "binary-ip": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "ip",
+    "address",
+    "convert",
+    "binary",
+    "ipv4"
+  ],
+  "dependencies": {
+    "binary-ip": "^1.0.1",
+    "meow": "^3.7.0"
+  }
+}
