@@ -16,11 +16,11 @@ $ npm install --global binary-ip-cli
 $ binary-ip --help
 
   Usage
-    $ binary-ip <ip> [...]
+    $ binary-ip <string>
 
   Examples
-    $ binary-ip <IP>
-    <result>
+    $ binary-ip 192.168.43.8
+    11000000.10101000.00101011.00001000
 ```
 
 
