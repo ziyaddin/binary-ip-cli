@@ -1,6 +1,6 @@
 {
   "name": "binary-ip-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convert an IP address to binary",
   "license": "MIT",
   "repository": "ziyaddin/binary-ip-cli",
